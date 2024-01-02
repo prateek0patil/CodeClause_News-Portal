@@ -1,1 +1,1 @@
-# CodeClause_News-Portal
+News-Portal
